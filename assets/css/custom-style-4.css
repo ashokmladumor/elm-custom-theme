@@ -1,0 +1,108 @@
+.ippi-faqs-section:hover:after {
+    top: 10px;
+    transition-duration: 1s;
+}
+
+/* .ippi-support-ippi-column:hover:after {
+    left: 1px;
+    transition-duration: 1s;
+} */
+.ippi-support-ippi-column:after {
+    bottom: 385px;
+}
+
+.ippi-partners-section:hover:after {
+    left: 47%;
+    transition-duration: 1s;
+}
+
+.ippi-partners-section:hover .ippi-partners-p:after {
+    left: 10%;
+    transition-duration: 1s;
+}
+
+.ippi-partners-section:hover .ippi-partners-p:before {
+    right: 4%;
+    transition-duration: 1s;
+}
+
+
+#ippi-job-fellow-fellow-stick .accordion-container {
+    width: 1455px;
+}
+
+.ippi-program-first-section .full-banner-content-wrapper:after {
+    background-image: url(/wp-content/uploads/2022/10/engage-with-us-7.svg);
+    top: 27px;
+    right: 44%;
+    content: "";
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
+
+.ippi-Beyond-main-sec:hover.ippi-program-first-section .full-banner-content-wrapper:after {
+    top: 10px;
+    transition-duration: 1s;
+}
+
+.ippi-Beyond-main-sec:hover.ippi-program-first-section .full-banner-content-wrapper:before {
+    left: 3%;
+    transition-duration: 1s;
+}
+
+.ippi-Beyond-main-sec:hover.ippi-program-first-section .full-banner-content:before {
+    top: 44%;
+    transition-duration: 1s;
+}
+
+.ippi-faqs-section:hover:before {
+    left: 10%;
+    transition-duration: 1s;
+}
+
+.ippi-join-our-column-first:hover.ippi-fellowship-pro-col:after {
+    left: 10%;
+    transition-duration: 1s;
+}
+
+.ippi-join-our-column-first:hover .ippi-fellowship-pro-tax:after {
+    left: 20%;
+    transition-duration: 1s;
+}
+
+.ippi-join-our-column-sec:hover .ippi-support-pro-heading:after {
+    left: 45%;
+    transition-duration: 1s;
+}
+
+.ippi-join-our-column-sec:hover.ippi-support-pro-col:after {
+    transition-duration: 1.5s;
+    bottom: 77%;
+}
+
+.ippi-join-our-column-sec:hover .ippi-support-pro-btn:after {
+    transition-duration: 1s;
+    left: 10%;
+}
+
+.ippi-join-our-column-sec:hover .ippi-support-pro-btn:before {
+    top: 10%;
+    transition-duration: 1s;
+}
+
+.ippi-main-job-sec:hover.ippi-jobs-fell-main-section:before {
+    left: 47%;
+    transition-duration: 1s;
+}
+
+.ippi-main-job-sec:hover.ippi-event-sec .ippi-event-desc:before {
+    top: 35%;
+    transition-duration: 1s;
+}
+
+.ippi-main-job-sec:hover.ippi-event-sec::after {
+    right: 10%;
+    transition-duration: 1s;
+}

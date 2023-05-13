@@ -1,0 +1,305 @@
+body.rtl * {
+    font-family: 'Ploni regular' !important;
+}
+
+body.rtl .fab,
+body.rtl .fa {
+    font-family: "Font Awesome 5 Brands" !important;
+}
+
+body.rtl p,
+body.rtl input,
+body.rtl span,
+body.rtl strong,
+body.rtl ul li {
+    font-family: 'Ploni regular' !important;
+}
+
+body.rtl a {
+    font-family: 'Ploni regular' !important;
+}
+
+body.rtl h1,
+body.rtl h2,
+body.rtl h3 {
+    font-family: 'Ploni regular' !important;
+}
+
+body.rtl div {
+    font-family: 'ploni regular' !important;
+}
+
+body.rtl section.elementor-section.footer-top-area a,
+body.rtl section.elementor-section.footer-top-area .menu-item a.elementor-item,
+body.rtl .ippi-job-fellow-element .accordion-content p~.elementor-post__read-more {
+    font-family: 'Ploni regular' !important;
+}
+
+body.rtl section.elementor-section.footer-top-area div {
+    font-family: 'Ploni regular';
+}
+
+body.rtl h2.ippi-partners-title {
+    font: normal normal 600 50px/60px 'Ploni regular';
+}
+
+/* h3.ippi-experts-carousel-item-title {
+    font: normal normal 600 28px/31px 'ploni regular' !important;
+}
+
+p.ippi-experts-carousel-item-designation {
+    font: normal normal normal 19px/33px 'ploni regular';
+}
+
+p.ippi-experts-carousel-item-expertise {
+    font: normal normal normal 16px/22px 'ploni regular';
+} */
+
+/* Home Page */
+
+body.rtl .ippi-home-hero-section-col-right:before {
+    left: 0;
+    right: -215px;
+}
+
+body.rtl .ippi-what-we-do figure.elementor-image-box-img {
+    margin-left: 50px !important;
+}
+
+body.rtl .ippi-recent-report .ippi-recent-report-item-content-area {
+    margin-right: 35px;
+}
+
+body.rtl h2.ippi-latest-content-section-title,
+body.rtl h2.ippi-spacial-project-section-title,
+body.rtl h2.ippi-recent-report-section-title,
+body.rtl h2.ippi-experts-carousel-section-title {
+    font: normal normal 600 50px/60px 'ploni bold';
+}
+
+body.rtl span.ippi-recent-report-item-title-main,
+body.rtl span.ippi-recent-report-item-content-type,
+body.rtl .ippi-recent-report-item-content-area a.elementor-button-link {
+    font-family: 'Ploni regular';
+}
+
+/* Home Page end */
+
+
+
+/* popup */
+
+body.rtl .ippi-search-bar .elementor-search-form__container {
+    display: flex;
+}
+
+body.rtl .ippi-search-bar input.elementor-search-form__input,
+body.rtl .ippi-search-bar button.elementor-search-form__submit {
+    border: none;
+    background: transparent !important;
+}
+
+body.rtl .ippi-header-popup-nav-menu-section .elementor-widget-wrap.elementor-element-populated {
+    margin-right: 95px;
+}
+
+body.rtl .ippi-header-popup-links-heading h2.elementor-heading-title {
+    text-align: right;
+    margin-right: 65px;
+}
+
+body.rtl .ippi-header-popup-nav-menu-section .elementor-inner-column:nth-child(2) .elementor-widget-wrap.elementor-element-populated {
+    margin-right: 155px;
+}
+
+body.rtl .ippi-header-popup-nav-menu-section .elementor-inner-column:nth-child(3) .elementor-widget-wrap.elementor-element-populated {
+    margin-right: 110px;
+}
+
+body.rtl .ippi-header-popup-links-heading:nth-child(1) h2.elementor-heading-title {
+    margin-right: 5px;
+}
+
+body.rtl #elementor-popup-modal-11272 {
+    justify-content: center !important;
+}
+
+body.rtl .ippi-content-view-all .ippi-view-link-title {
+    margin-left: 25px;
+}
+
+/* popup end */
+
+body.rtl .ippi-social-shares {
+    left: 5px;
+    right: unset;
+}
+
+body.rtl h3.ippi-issue-area-title {
+    background-image: unset !important;
+    position: relative;
+}
+
+body.rtl h3.ippi-issue-area-title:before {
+    background-image: url(../images/arrow.png);
+    content: '';
+    position: absolute;
+    top: 11px;
+    bottom: 0;
+    width: 13px;
+    background-size: 13px;
+    background-repeat: no-repeat;
+    background-position: center;
+    transform: rotate(180deg);
+    left: 0;
+}
+
+body.rtl .ippi-cat-hero-image {
+    position: relative;
+}
+
+body.rtl .ippi-experts-carousel .accordion-title::after {
+    left: 25px !important;
+    right: auto !important;
+}
+
+body.rtl .ippi-publication-load-more-wrapper a#ippi-publication-load-more:hover:before {
+    content: "פרסומים ואירועים";
+}
+
+body.rtl .ippi-our-service-section a.elementor-button-link:hover:before {
+    content: "פרסומים ואירועים";
+}
+
+body.rtl .ippi-rr-load-more-btn .ippi-btn-hover-black-left .elementor-button-content-wrapper:hover:before {
+    content: "פרסומים ואירועים";
+}
+
+body.rtl .ippi-publication-load-more span.elementor-button-content-wrapper.ippi-btn-hover-black-left:hover:before {
+    content: "פרסומים ואירועים";
+}
+
+body.rtl .ippi-expert_single-content span.elementor-button-content-wrapper:hover:before {
+    content: "פרסומים ואירועים";
+}
+
+body.rtl .ippi-expert_single-content span.elementor-button-content-wrapper:hover {
+    width: 12%;
+}
+
+body.rtl .ippi-recent-report span.elementor-button-content-wrapper:hover {
+    width: 12%;
+}
+
+/* event page */
+body.rtl .ippi-event-dropdown a#ippi-publication-load-more:hover:before {
+    content: "פרסומים ואירועים";
+}
+
+@media (max-width:1300px) and (min-width:1201px) {
+    body.rtl .ippi-publication-filter-content::after {
+        left: 135px !important;
+    }
+}
+
+@media (max-width:1201px) {
+
+    body.rtl .ippi-about-ippi-section .elementor-widget-image-box figure,
+    body.rtl .ippi-fellow-overview-section .elementor-widget-image-box figure {
+        margin-right: 0px !important;
+        margin-left: 50px !important;
+    }
+}
+
+@media (max-width:1500px) and (min-width:1200px) {
+    body.rtl .ippi-error-heading:after {
+        left: 50px;
+        top: 0px;
+    }
+
+
+}
+
+@media (max-width:960px) {
+
+    body.rtl .ippi-knowledge-share .elementor-image-box-img,
+    body.rtl .ippi-research .elementor-image-box-img {
+        margin-right: 50px !important;
+    }
+}
+
+@media (max-width:960px) and (min-width:768px) {
+
+    body.rtl .ippi-support-btn:after {
+        content: "";
+        top: 30%;
+        right: -30%;
+        background-size: 120px;
+    }
+
+    body.rtl .ippi-publication-filter-content::after {
+        left: 10px !important;
+        background-size: 65%;
+    }
+}
+
+@media (max-width:774px) and (min-width:768px) {
+    body.rtl .ippi-search-archive .ippi-search-archive-terms a {
+        margin-left: 8px !important;
+    }
+}
+
+@media (max-width:960px) and (min-width:640px) {
+    body.rtl .ippi-project-content-item-content-area {
+        min-height: 520px;
+    }
+}
+
+@media (max-width:767px) and (min-width:641px) {
+    body.rtl .ippi-search-archive-content {
+        margin-right: 30px;
+    }
+
+    body.rtl .ippi-search-archive-content {
+        width: 850px;
+    }
+}
+
+@media (max-width:640px) and (min-width:280px) {
+    body.rtl .ippi-support-btn:after {
+        content: "";
+        top: 65%;
+        right: -30%;
+        background-size: 85px;
+    }
+
+    body.rtl .ippi-publication-filter-content::after {
+        top: 25px;
+        background-size: 65%;
+    }
+
+    body.rtl .ippi-publication-filter-content::before {
+        top: 25%;
+    }
+
+    body.rtl .ippi-Experts-p:after {
+        bottom: 67%;
+        right: 65%;
+        background-size: 60px;
+    }
+
+    body.rtl .ippi-expert-content-item-image {
+        width: 40% !important;
+    }
+
+    body.rtl .ippi-experts-element .ippi-expert-content-item-image img {
+        width: 85px;
+        height: 85px;
+    }
+}
+
+@media (max-width:360px) and (min-width:280px) {
+    body.rtl .ippi-error-heading::after {
+        top: 45%;
+    }
+}

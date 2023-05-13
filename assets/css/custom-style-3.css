@@ -1,0 +1,863 @@
+/* home page */
+
+/* 2nd section */
+
+.ippi-featured-content-item.ippi_featured-content-left a {
+    height: 935px;
+}
+
+.ippi_featured-content-left {
+    display: inline-block;
+    position: sticky !important;
+}
+
+.ippi-fetured-content-float-container {
+    display: block;
+    flex-wrap: unset;
+}
+
+.ippi-fetured-content-float-container .ippi-featured-content-item.ippi_featured-content-left {
+    float: left;
+    width: 50%;
+    display: inline-block;
+    position: sticky !important;
+    top: 0px;
+}
+
+.ippi-fetured-content-float-container .ippi_featured-content-left,
+.ippi-fetured-content-float-container .ippi_featured-content-right-main {
+    width: auto;
+}
+
+.ippi_featured-content-right {
+    height: 100%;
+}
+
+.ippi_featured-content-right .ippi-grid-wrapper {
+    position: unset;
+    overflow: hidden;
+}
+
+.ippi-fetured-content-float-container .ippi_featured-content-right-main {
+    float: right;
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.ippi-grid-row.ippi-fetured-content-float-container:before,
+.ippi-grid-row.ippi-fetured-content-float-container:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* 2nd section end */
+
+
+/* special project */
+
+.special-project .ippi-spacial-project-item-content-area {
+    margin-top: -100px;
+}
+
+.ippi-spacial-project .custom_paging {
+    margin-bottom: 15px;
+}
+
+/* special project end */
+
+
+/* recent report */
+
+h3.ippi-recent-report-item-title {
+    color: #000
+}
+
+.ippi-recent-report-home-section a.elementor-button-link {
+    background: transparent !important;
+}
+
+/* recent report end */
+
+/* expert spotlight */
+
+.ippi-experts-carousel-item-description,
+.ippi-experts-carousel-item-post-heading h3 {
+    font-weight: normal;
+}
+
+/* expert spotlight end */
+
+
+/* engage with us section */
+
+.ippi-engage-section .ippi-support-wok:hover .elementor-element.elementor-widget-heading:before {
+    left: 15% !important;
+    bottom: 55px;
+    transition-duration: 0.4s;
+}
+
+.ippi-engage-section .ippi-support-wok:hover .ippi-engage-img.elementor-widget:after {
+    top: 150px;
+    left: 12%;
+    transition-duration: 0.4s;
+}
+
+.ippi-parent-with-us:hover .ippi-engage-img.elementor-widget:before,
+.ippi-support-wok:hover .ippi-engage-img.elementor-widget:before,
+.ippi-join-our-community:hover .ippi-engage-img.elementor-widget:before {
+    top: 75px;
+    right: 0px;
+    transition-duration: 0.4s;
+}
+
+.ippi-parent-with-us:hover .elementor-widget-heading .elementor-widget-container:after,
+.ippi-join-our-community:hover .ippi-join-community.elementor-widget-heading .elementor-widget-container:before {
+    top: 5px;
+    right: 17%;
+    transition-duration: 0.4s;
+}
+
+.ippi-parent-with-us:hover .elementor-widget-heading .elementor-widget-container:before,
+.ippi-join-our-community:hover .ippi-join-community.elementor-widget-heading .elementor-widget-container:after {
+    bottom: 40px;
+    right: 3%;
+    transition-duration: 0.4s;
+}
+
+/* engage with us section */
+
+/* home page end */
+
+
+
+/* explainer single post template */
+
+/* 1st section */
+
+.ippi-cat-hero-explainer-section .ippi-explainer-term-title {
+    font-size: 44px;
+    line-height: 50px;
+}
+
+.ippi-cat-hero-explainer-section p.ippi-cat-hero-term-description {
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.ippi-cat-hero-explainer-section .ippi-featured-content-item-details,
+.ippi-cat-hero-explainer-section .ippi-cat-hero-content {
+    margin-bottom: 50px !important;
+}
+
+/* 
+.ippi-cat-hero-explainer-section span.ippi-featured-content-item-date {
+    font-size: 22px;
+    line-height: 26px;
+    letter-spacing: 0.44px;
+} */
+
+.ippi-cat-hero-explainer-section .ippi-share-icon a {
+    font-size: 25px;
+    margin-right: 22px;
+    color: #000;
+}
+
+.ippi-featured-content-item-details ul.sub-label-program li:after,
+.ippi-featured-content-item-details span.ippi-cat-hero-tax-title:after {
+    content: "";
+    height: 5px;
+    width: 5px;
+    background: #ff1f8e;
+    position: absolute;
+    right: -2px;
+    top: 30%;
+    bottom: 0;
+    border-radius: 100px;
+}
+
+.ippi-featured-content-item-details span.ippi-cat-hero-tax-title,
+.ippi-featured-content-item-details ul.sub-label-program li {
+    padding-right: 20px;
+    position: relative;
+}
+
+.ippi-featured-content-item-details span.ippi-featured-content-item-date {
+    padding-left: 20px;
+}
+
+.ippi-featured-content-item-details {
+    font-size: 22px;
+    line-height: 26px;
+    letter-spacing: 0.44px;
+}
+
+/* 1st section end */
+
+
+/* newsletter section */
+
+.ippi-explainer-mail .elementor-form-fields-wrapper {
+    display: flex;
+    width: 850px !important;
+}
+
+.ippi-explainer-mail .elementor-field-required {
+    width: 85%;
+}
+
+.ippi-explainer-mail .e-form__buttons {
+    width: 15%;
+}
+
+.ippi-explainer-mail input#form-field-email {
+    background: 0 0 !important;
+    border: 2px solid #000;
+    border-radius: 0;
+    font-size: 20px;
+    line-height: 34px;
+    font-weight: normal;
+    font-weight: 500 !important;
+    font-family: "Gibson-Regular", Sans-serif;
+}
+
+.ippi-explainer-mail input#form-field-email::placeholder {
+    color: #000;
+    opacity: 1;
+}
+
+.ippi-mail .elementor-field-type-email input::placeholder {
+    color: #fff;
+    opacity: 1;
+}
+
+.ippi-newsletter-wrapper .ippi-social-icon a.elementor-icon:hover::before {
+    color: #FF1F8E;
+    transition-duration: 0.4s;
+}
+
+.ippi-newsletter-wrapper .ippi-social-icon a.elementor-icon:hover i.fab {
+    transition-duration: 0.4s;
+}
+
+.ippi-newsletter-wrapper:hover .ippi-social-icon-column:before {
+    left: 10%;
+    bottom: 266px;
+    transition-duration: 0.4s;
+}
+
+.ippi-newsletter-wrapper:hover .ippi-social-icon-column .elementor-widget-wrap:after {
+    right: 15%;
+    bottom: 160px;
+    transition-duration: 0.5s;
+}
+
+.ippi-newsletter-wrapper:hover::before {
+    left: 220px;
+    bottom: 35px;
+    transition-duration: 0.5s;
+}
+
+/* newsletter section end */
+
+
+.ippi-podcast-quote-part .ippi-content-leads-description,
+.ippi-podcast-quote-part .ippi-content-leads-content,
+.ippi-explainer-quote-part .ippi-content-leads-description,
+.ippi-explainer-quote-part .ippi-content-leads-content {
+    width: 100%;
+}
+
+/* topic heading */
+
+.ippi-topics-area h2.ippi-topics-title,
+.ippi-topics-area h2.ippi-topics-title.ippi-expertise-title_topics {
+    font-size: 24px !important;
+}
+
+/* topic heading end */
+
+/* explainer single post template end */
+
+
+
+/* single podcast post */
+
+/* 1st section */
+
+.ippi-featured-content-item-details ul.sub-label-program li:after {
+    content: "";
+    height: 5px;
+    width: 5px;
+    background: #ff1f8e;
+    position: absolute;
+    top: 30%;
+    bottom: 0;
+    border-radius: 100px;
+}
+
+.ippi-single-post-podcast .full-banner-inner::before {
+    background: none;
+}
+
+.ippi-single-post-podcast .full-banner-inner h1,
+.ippi-single-post-podcast .full-banner-inner .full-banner-content {
+    color: #000;
+}
+
+.ippi-banner-style-dossier label {
+    width: 100%;
+}
+
+.ippi-banner-style-dossier label .ippi-share-icon {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.ippi-banner-style-dossier label .ippi-share-icon a {
+    font-size: 25px;
+    margin-right: 25px;
+    color: #000;
+    text-align: center;
+}
+
+.ippi-banner-style-dossier label .ippi-share-icon a:hover {
+    color: #ff1d87;
+}
+
+/* 1st section end */
+
+.ippi-section-menu-toc.elementor-sticky--active {
+    margin-top: 50px !important;
+}
+
+.article-content-area-wrapper hr {
+    display: none;
+}
+
+.ippi-single-post-podcast-first-sec .full-banner-content-wrapper.ippi-banner-style-dossier {
+    padding-top: 90px;
+}
+
+/* single podcast post end */
+
+
+
+.ippi-home-second-section span.ippi-featured-content-item-title-main,
+.ippi-latest-content span.ippi-latest-content-item-title-main,
+.ippi-spacial-project-item span.ippi-spacial-project-item-title-main,
+.ippi-recent-reports .ippi-recent-report-item-wrapper span.ippi-recent-report-item-title-main,
+.ippi-experts-carousel span.ippi-experts-carousel-item-post-title,
+.ippi-related-content span.ippi-related-content-item-title-main,
+.ippi-related-programs span.ippi-related-programs-item-title-main,
+.ippi-featured-content span.ippi-featured-content-item-title-main,
+.ippi-event-dropdown span.ippi-event-content-item-title-main,
+.ippi-publication-filter h3 a {
+    width: 100%;
+    background-image: linear-gradient(90deg, #ff1f8e, #ff1f8e);
+    background-repeat: no-repeat;
+    background-size: 0 2px;
+    background-position: 0 100%;
+    transition: background-size .8s ease-in-out 0s;
+}
+
+.ippi-home-second-section .ippi-featured-content-item-wrapper:hover span.ippi-featured-content-item-title-main,
+.ippi-latest-content .ippi-latest-content-item-wrapper:hover span.ippi-latest-content-item-title-main,
+.ippi-spacial-project-item .ippi-spacial-project-item-wrapper:hover .ippi-spacial-project-item-title span.ippi-spacial-project-item-title-main,
+.ippi-recent-reports .ippi-recent-report-item-wrapper:hover h3.ippi-recent-report-item-title .ippi-recent-report-item-title-main,
+.ippi-experts-carousel .ippi-experts-carousel-item-wrapper a:hover span.ippi-experts-carousel-item-post-title,
+.ippi-related-content .ippi-related-content-item-wrapper:hover span.ippi-related-content-item-title-main,
+.ippi-related-programs .ippi-related-programs-item-wrapper:hover span.ippi-related-programs-item-title-main,
+.ippi-featured-content .ippi-featured-content-item-wrapper:hover .ippi-featured-content-item-title-main,
+.ippi-event-dropdown .ippi-event-content-item-wrapper:hover span.ippi-event-content-item-title-main,
+.ippi-publication-filter .ippi-publication-filter-item-content:hover h3 a {
+    background-size: 100% 2px;
+}
+
+.ippi-engage-section h2:hover,
+.footer-top-area li a.elementor-item:hover,
+.ippi-latest-section-elementor span.ippi-view-link-title:hover,
+.ippi-more-about-ippi-section section .elementor-column:nth-child(1) h2:hover,
+.ippi-more-about-ippi-section section .elementor-column:nth-child(2) h2:hover,
+.ippi-more-about-ippi-section section .elementor-column:nth-child(3) h2:hover {
+    color: #FF1F8E !important;
+}
+
+
+
+/* single post topics */
+
+/* latest content */
+
+.ippi-latest-section-elementor .ippi-latest-content-wrapper ul.slick-dots li button:hover,
+.ippi-home-expert-element button:hover {
+    background-color: #E6E6E6;
+}
+
+/* latest content end */
+
+/* overview section */
+
+.ippi-single-post-topic-overview-left .elementor-widget-container p {
+    font-size: 36px;
+    line-height: 54px;
+    letter-spacing: 0.72px;
+    font-weight: normal;
+    color: #fff;
+    padding: 85px 86px;
+    background-color: #000;
+}
+
+/* overview section end */
+
+/* single post topics end */
+
+
+/* topic page */
+
+/* topic page block secction */
+
+.ippi-topic-list-content-item-image {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    text-align: center;
+    position: relative;
+}
+
+.ippi-topic-list-content-item-wrapper img {
+    width: 413px;
+    height: 413px;
+}
+
+.ippi-topic-list-content-item-content-area {
+    position: absolute;
+    bottom: 32px;
+    left: 10%;
+}
+
+h3.ippi-topic-list-content-item-title {
+    font-size: 24px;
+    line-height: 48px;
+    letter-spacing: 0.6px;
+    color: #fff;
+}
+
+.ippi-topic-list-dropdown ul.ippi-table-content-dropdown {
+    border-bottom: 2px solid #000 !important;
+    top: 0;
+    position: relative;
+    display: inline-flex;
+    list-style: none;
+    margin: 0px -5px 65px;
+    width: -webkit-fill-available !important;
+}
+
+.ippi-table-content-dropdown li.active {
+    position: relative;
+}
+
+.ippi-table-content-dropdown li {
+    padding: 0px 40px 25px;
+    font: normal normal normal 22px/26px Gibson;
+    letter-spacing: 0px;
+    margin-bottom: -5px;
+}
+
+.ippi-table-content-dropdown li.active:before {
+    border-bottom: 8px solid #ff1d87;
+    content: "";
+    width: 100%;
+    height: 8px;
+    position: absolute;
+    z-index: 99;
+    top: 57px;
+    left: 0;
+}
+
+/* topic page block secction end */
+
+/* topic page end */
+
+
+.ippi-noto-serif-font p,
+.ippi-noto-serif-font .elementor-widget-container,
+.ippi-noto-serif-font .elementor-widget-container b,
+.article-content-area-wrapper a {
+    font-family: "Noto Serif", Sans-serif;
+}
+
+.article-full-width-content .ippi-image-with-content-description p {
+    margin-right: 55px;
+}
+
+.ippi-publication-img-float-width .ippi-grid-row .ippi-grid-col-1\/2:nth-child(2) {
+    width: 60%;
+}
+
+.ippi-publication-img-float-width .ippi-grid-row .ippi-grid-col-1\/2 {
+    width: 40%;
+}
+
+
+/* about us page */
+
+/* 1st section */
+
+.ippi-about-us-section:hover:after {
+    top: 50px;
+    right: 46%;
+    transition-duration: 0.4s;
+}
+
+.ippi-about-us-section:hover .ippi-about-us-heading h1:before {
+    top: 20px;
+    right: 6%;
+    transition-duration: 0.5s;
+}
+
+.ippi-about-us-section:hover:before {
+    left: 14%;
+    bottom: -50px;
+    transition-duration: 0.5s;
+}
+
+/* 1st section end */
+
+/* about us page end */
+
+
+/* support us page */
+
+
+.ippi-support-us-heading h1:before {
+    content: "";
+    background-image: url(/wp-content/uploads/2022/10/engage-with-us-7.svg);
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 30px;
+    right: 44%;
+}
+
+.ippi-support-us-section:before {
+    content: "";
+    background-image: url(/wp-content/uploads/2022/10/engage-with-us-3.svg);
+    height: 128px;
+    width: 111px;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 16%;
+    bottom: -71px;
+    background-size: 105px;
+    z-index: 2;
+}
+
+.ippi-support-us-heading h1:before {
+    background-image: url(/wp-content/uploads/2022/10/engage-with-us.svg);
+    top: 7px;
+    right: 4%;
+    background-size: 22px;
+}
+
+
+.ippi-support-ippi-section .ippi-support-ippi-column:hover:after {
+    left: 3%;
+    transition-duration: 0.5s;
+}
+
+.ippi-support-ippi-section .elementor-element-populated:hover .ippi-support-heading:after {
+    right: 315px;
+    bottom: 30px;
+    transition-duration: 0.5s;
+}
+
+.ippi-support-ippi-section .ippi-support-ippi-column:hover:before {
+    right: 4%;
+    top: -1%;
+    transition-duration: 0.5s;
+}
+
+.ippi-support-ippi-section .ippi-support-ippi-column:hover .ippi-support-btn:before {
+    top: 47px;
+    right: 23%;
+    transition-duration: 0.5s;
+}
+
+.ippi-support-ippi-section .ippi-support-ippi-column:hover .ippi-support-text:after {
+    top: 166px;
+    left: 13%;
+    transition-duration: 0.5s;
+}
+
+.ippi-support-ippi-section .ippi-support-ippi-column:hover .ippi-support-btn:after {
+    top: 40px;
+    left: 89%;
+    transition-duration: 0.5s;
+}
+
+
+/* form */
+
+.ippi-support-us-form .gform_wrapper .top_label li.gfield.gf_left_half {
+    width: 100%;
+    margin-top: 0px;
+}
+
+.ippi-support-us-form .gform_legacy_markup_wrapper .gfield_html.gfield_no_follows_desc {
+    margin-top: 25px;
+}
+
+.ippi-support-us-form .ippi-form-wrapper .gform_footer.top_label {
+    text-align: left;
+}
+
+/* form end */
+
+/* support us page end */
+
+
+.ippi-program-section:hover .ippi-program-heading:before {
+    left: 53%;
+    bottom: 50px;
+    transition-duration: 0.5s;
+}
+
+.ippi-program-section:hover .ippi-program-content:before {
+    left: -12%;
+    bottom: 85px;
+    transition-duration: 0.8s;
+}
+
+.ippi-program-section:hover .ippi-program-content:after {
+    top: 55px;
+    right: -215px;
+    transition-duration: 0.5s;
+}
+
+.ippi-program-table-content-section span.ippi-open-item.ippi-close-item {
+    display: none;
+}
+
+.ippi-artical-a-border-bottom a {
+    color: #000;
+    border-bottom: 2px solid #FF1F8E;
+}
+
+.ippi-artical-a-border-bottom a:hover {
+    background: #ff5bac29;
+}
+
+.article-content-area-wrapper a.ippi-text-underline.ippi-open-image-credit-popup,
+.article-content-area-wrapper .ippi-content-leads-author a,
+.article-content-area-wrapper .ippi-share-icon a {
+    border-bottom: none;
+}
+
+/* .article-content-area-wrapper a {
+    color: #000;
+    border-bottom: 2px solid #FF1F8E;
+}
+
+.article-content-area-wrapper a:hover {
+    background: linear-gradient(to bottom, #fff 0%, #ff5bac29 0%) right !important;
+} */
+
+@media (max-width:1799px) and (min-width:769px) {
+    .ippi-content-view-all {
+        margin: 50px 28px 0px 28px;
+    }
+}
+
+@media (max-width:1700px) {
+    .ippi-cat-hero-image-container {
+        width: auto;
+    }
+}
+
+@media (max-width:1400px) and (min-width:1101px) {
+    .ippi-topic-list-content-item-wrapper img {
+        width: 413px;
+        height: 330px;
+    }
+}
+
+@media (max-width: 1366px) {
+    .ippi-podcast-quote-part .ippi-content-leads-description {
+        font-size: 18px;
+        line-height: 1.4em;
+    }
+
+    .ippi-podcast-quote-part .ippi-content-leads-content p {
+        font-size: 20px;
+    }
+}
+
+@media (max-width:1250px) and (min-width:1025px) {
+    .download-item {
+        font-size: 24px;
+    }
+
+    .ippi-download-pdf i.ipp-icon-download {
+        background-size: 25px;
+    }
+}
+
+@media (max-width:1100px) {
+    .ippi-single-post-topic-overview-left .elementor-widget-container p {
+        padding: 85px 60px;
+    }
+}
+
+@media (max-width:1024px) {
+    .ippi-support-us-two-column .elementor-column.elementor-top-column:nth-child(1) {
+        order: 2;
+        margin-top: 50px;
+    }
+
+    .ippi-topic-list-content-item-wrapper img {
+        height: 250px;
+    }
+
+    h3.ippi-topic-list-content-item-title {
+        line-height: 35px;
+    }
+
+    .ippi-single-post-topic-overview-left .elementor-widget-container p {
+        font-size: 30px;
+        line-height: 40px;
+        padding: 85px 35px;
+    }
+
+    .ippi-explainer-mail .elementor-form-fields-wrapper.elementor-labels-above {
+        width: auto !important;
+    }
+}
+
+@media (max-width:1100px) and (min-width:961px) {
+    .ippi-topic-list-dropdown .ippi-topic-list-content-item {
+        width: 33.33%;
+    }
+
+    .ippi-topic-list-content-item-wrapper img {
+        height: 250px;
+    }
+}
+
+@media (max-width:991px) and (min-width:961px) {
+    .ippi-topic-list-content-item-content-area {
+        left: 30%;
+    }
+}
+
+@media (max-width:991px) and (min-width:641px) {
+    .ippi-spacial-project-item-content-area {
+        display: contents;
+    }
+
+    .ippi-spacial-project-slider .slick-slide.slick-active .ippi-spacial-project-item-wrapper .ippi-spacial-project-item-image {
+        margin-top: 40px;
+    }
+}
+
+@media (max-width:960px) {
+    .ippi-cat-hero-explainer-section .ippi-explainer-term-title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    .ippi-featured-content-item-details {
+        font-size: 18px;
+    }
+
+    .ippi-explainer-quote-part .ippi-content-leads-description {
+        font-size: 22px;
+        line-height: 35px;
+    }
+
+    .ippi-explainer-quote-part .ippi-content-leads-content {
+        font-size: 22px;
+        line-height: 1.4;
+    }
+
+    .ippi-explainer-quote-part .ippi-content-leads-content p {
+        font-size: 22px;
+    }
+}
+
+@media (max-width:960px) and (min-width:640px) {
+    .ippi-topic-list-dropdown .ippi-topic-list-content-item {
+        width: 50%;
+    }
+
+    .ippi-topic-list-content-item-content-area {
+        left: 10%;
+    }
+
+    .ippi-related-programs .ippi-related-program-slick-next.slick-arrow {
+        right: -20px !important;
+    }
+}
+
+@media (max-width:949px) {
+    .ippi-explore-publication-section .ippi-related-content-item-image img {
+        width: 100% !important;
+    }
+}
+
+@media (max-width:639px) and (min-width:480px) {
+    h3.ippi-topic-list-content-item-title {
+        font-size: 24px;
+        line-height: 48px;
+        letter-spacing: 0.6px;
+        color: #fff;
+        margin-left: 45px;
+    }
+}
+
+@media (max-width:640px) {
+    .ippi-grid-col-1\/2.ippi-featured-content-item.ippi_featured-content-left {
+        width: 100%;
+        position: relative !important;
+    }
+
+    .ippi-grid-col-1\/2.ippi_featured-content-right-main {
+        width: 100%;
+    }
+
+    .ippi-support-us-form .form-content {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    .ippi-single-post-topic-overview-left .elementor-widget-container p {
+        font-size: 27px;
+        line-height: 43px;
+        padding: 85px 22px;
+    }
+
+    .ippi_featured-content-right .ippi-featured-content-item-content-area {
+        width: 100%;
+        padding-right: 0px !important;
+    }
+
+    .ippi-spacial-project-item-heading {
+        margin-top: 110px;
+    }
+
+    .full-banner-content-wrapper.ippi-banner-style-dossier h1 {
+        font: normal normal 600 30px/45px Gibson;
+        max-width: 100%;
+    }
+
+    .ippi-explainer-quote-part .ippi-content-leads-description {
+        font-size: 16px;
+        line-height: 35px;
+    }
+
+    .ippi-explainer-quote-part .ippi-content-leads-content p {
+        font-size: 18px;
+    }
+}

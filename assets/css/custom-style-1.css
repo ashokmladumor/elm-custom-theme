@@ -1,0 +1,101 @@
+.class {}
+
+.new-class {}
+.ippi-header .ippi-header-support-btn{
+padding-left: 0px !important;
+}
+
+/* header support us button  */
+.elementor-21 .elementor-element.elementor-element-5f9c23b .elementor-button{
+    width:118px;
+    height:44px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 0px;
+    float: right;
+    margin-right: 31px;
+}
+
+
+.elementor-button .elementor-align-icon-left{
+
+
+}
+.elementor-21 .elementor-element.elementor-element-114fa9ef.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{
+    margin-left: 2px !important;
+}
+.elementor-21 .elementor-element.elementor-element-52c4089a > .elementor-widget-container{
+    padding: 0px 0px 0px 0px;}
+.elementor-21 .elementor-element.elementor-element-36f3d0c1 > .elementor-widget-container{
+padding: 0px 0px 0px 8px !important;}
+
+.elementor-21 .elementor-element.elementor-element-9f63bf0 .elementor-button{ 
+float: right;font-size:23px;  margin: 4px -8px 0px 0px;}
+
+.elementor-21 .elementor-element.elementor-element-a42cf83 .elementor-button{     
+float: right;font-size:23px;   margin: 1px -14px 0px 0px;} 
+
+.elementor-21 .elementor-element.elementor-element-0f00ffb .elementor-button{
+    float: right;
+    font-size:23px;
+    }
+    
+
+.ippi-home-hero-section-col-right .elementor-widget-wrap.elementor-element-populated:before{
+    bottom: 354px;
+    left: 30.5%;
+    background-size: 10%;
+}
+.ippi-home-hero-section-col-right .elementor-widget-wrap.elementor-element-populated:after{
+background-size: 81.25px;
+    bottom: 88.5%;
+    right: 88%;
+    width: 26%;
+
+}
+.ippi-home-hero-section-img{
+background-size: 22px;
+    position: absolute;
+    bottom: 354px;
+    right: 25.5%;}
+    
+    .ippi-home-hero-section-col-right .elementor-widget-wrap{
+    background-size: 631.75px 631.78px;
+     background-position: 89px 159px;
+    }
+    .elementor-235 .elementor-element.elementor-element-296cf14 > .elementor-element-populated{
+    padding: 151px 0px 200px 5px;
+    }
+    .elementor-element.elementor-element-0889f68 {
+        margin-bottom: 24px !important;
+}
+.elementor-235 .elementor-element.elementor-element-237c620{
+letter-spacing:0px;
+}
+.elementor-235 .elementor-element.elementor-element-33b85a3 .elementor-button{
+    padding: 20px 40px 18px 26px;
+    width: 207px;
+    height: 63px;
+    margin-top: 6px;
+    font-size: 19px;
+}
+    .ippi-home-hero-section-col-right:after{
+        background-size: 23px;
+        top: 309px;
+    right: 44.6%;
+    }
+    .ippi-home-hero-section-img:before{
+    background-size: 128.25px;
+    bottom: -307px;
+    left: 116.7%;
+    width: 132px
+    height: 120px;
+    }
+    .ippi-home-hero-section-img:before{
+        left: 116.8%;
+    width: 129px;
+    height: 123px;
+    }
+    .ippi-home-hero-section-col-right:before{
+    background-size: 23px;
+    top: 378px;
+    left: 19.6%;}

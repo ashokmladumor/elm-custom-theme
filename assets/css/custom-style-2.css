@@ -1,0 +1,22 @@
+body * {
+    font-family: 'gibson';
+}
+.ippi-newsletter-wrapper .elementor-heading-title,
+.footer-bottom-area, .elementor-section.footer-bottom-area p, .elementor-section.footer-bottom-area a, .elementor-section.footer-bottom-area .menu-item a {
+    font-family: 'gibson';
+}
+section.elementor-section.footer-top-area a, section.elementor-section.footer-top-area .menu-item a.elementor-item {
+    font-family: 'gibson'!important;
+    padding-bottom: 10px;
+}
+section.elementor-section.footer-top-area a, section.elementor-section.footer-top-area .menu-item a.elementor-item {
+    font-family: 'gibson'!important;
+    padding-bottom: 10px;
+}
+section.elementor-section.footer-top-area div {
+    font-family: 'gibson';
+    font-weight: 400;
+}
+.subscribe-newsetter-title.elementor-widget-heading {
+    margin-bottom: 8px;
+}
